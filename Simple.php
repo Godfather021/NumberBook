@@ -8,7 +8,7 @@
  * @link : https://github.com/Saleh7;
  */
 
-$Key    = 'API keys. Here'; // API keys | The key here is https://telegram.me/Pain7
+$Key    = 'test1day1X'; // API keys | The key here is https://telegram.me/Pain7
 $Search = 'test'; // Numbers OR Names
 $Cntry  = ''; // 966 or 967 .. | Cntry is not currently enabled
 $Count  = ''; // Control Number of Results | Count is not currently enabled
