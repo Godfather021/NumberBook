@@ -1,6 +1,12 @@
 # CallerBot Telegram Webhook
 CallerBot Telegram Webhook
 
+Example usage Bot
+--------------
+/s 055555555
+
+Return : number , name
+
 ### Create a New Bot
 1. Add [@BotFather](https://telegram.me/botfather) to start conversation.
 2. Type `/newbot` and **@BotFather** will ask the name for your bot.
