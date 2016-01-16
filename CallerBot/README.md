@@ -1,5 +1,5 @@
-# TelegramWebhook
-Telegram Webhook PHP
+# CallerBot Telegram Webhook
+CallerBot Telegram Webhook
 
 ### Create a New Bot
 1. Add [@BotFather](https://telegram.me/botfather) to start conversation.
@@ -23,11 +23,11 @@ Edit WebHook.php
 --------------
 1. Add Token
 2. Set Url WebHook
+3. [Configuration (WebHook)](https://github.com/Saleh7/NumberBook/tree/master/CallerBot#configuration-webhook)
 ```php
 $Token = "112488787:AAHh3GekYvSR_pEMKAfyjxAOjgX7ul2lACo"; //Your Api Key Here
 $WebHook = "https://www.****.com/test/WebHook.php"; // Your Url Webhook
 ```
-3. `https://api.telegram.org/bot Token /setWebhook?url= URL WebHook`
 
 Edit Telegram.php
 --------------
